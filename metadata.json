@@ -1,0 +1,6 @@
+{
+  "name": "ExamPortal - የፈተና መተግበሪያ እና ዳታ ማከማቻ መፍትሔ",
+  "description": "የፈተና መተግበሪያ፣ የፈተና ጥያቄዎች ማከማቻ ዘዴዎች (Cloud Database/Storage) እና ፈተናዎችን በቀላሉ በትንሽ Size ማዘጋጃ መተግበሪያ።",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
