@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "question": "What is the value of 15 × 4?",
+    "options": {
+      "A": "45",
+      "B": "50",
+      "C": "60",
+      "D": "65"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 2,
+    "subject": "Biology",
+    "question": "Which organelle is responsible for photosynthesis?",
+    "options": {
+      "A": "Mitochondria",
+      "B": "Chloroplast",
+      "C": "Nucleus",
+      "D": "Ribosome"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 3,
+    "subject": "Chemistry",
+    "question": "What is the chemical formula of water?",
+    "options": {
+      "A": "CO2",
+      "B": "O2",
+      "C": "H2O",
+      "D": "NaCl"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "subject": "Physics",
+    "question": "What is the SI unit of force?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Newton",
+      "D": "Pascal"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 5,
+    "subject": "English",
+    "question": "Choose the correct plural of Child.",
+    "options": {
+      "A": "Childs",
+      "B": "Children",
+      "C": "Childes",
+      "D": "Childrens"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "question": "Solve: 2x + 6 = 16.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 7,
+    "subject": "Biology",
+    "question": "Which organ pumps blood throughout the human body?",
+    "options": {
+      "A": "Brain",
+      "B": "Liver",
+      "C": "Kidney",
+      "D": "Heart"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 8,
+    "subject": "Chemistry",
+    "question": "What is the atomic number of Oxygen?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 9,
+    "subject": "Physics",
+    "question": "What is the approximate speed of light in a vacuum?",
+    "options": {
+      "A": "3 × 10^6 m/s",
+      "B": "3 × 10^8 m/s",
+      "C": "3 × 10^5 m/s",
+      "D": "3 × 10^7 m/s"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 10,
+    "subject": "English",
+    "question": "Choose the opposite of Ancient.",
+    "options": {
+      "A": "Old",
+      "B": "Historic",
+      "C": "Modern",
+      "D": "Traditional"
+    },
+    "correctAnswer": "C"
+  }
+]
